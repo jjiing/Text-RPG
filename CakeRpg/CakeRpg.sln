@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CakeRpg", "CakeRpg\CakeRpg.vcxproj", "{46929246-A5BF-4B97-884D-D121FD4688DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46929246-A5BF-4B97-884D-D121FD4688DC}.Debug|x64.ActiveCfg = Debug|x64
+		{46929246-A5BF-4B97-884D-D121FD4688DC}.Debug|x64.Build.0 = Debug|x64
+		{46929246-A5BF-4B97-884D-D121FD4688DC}.Debug|x86.ActiveCfg = Debug|Win32
+		{46929246-A5BF-4B97-884D-D121FD4688DC}.Debug|x86.Build.0 = Debug|Win32
+		{46929246-A5BF-4B97-884D-D121FD4688DC}.Release|x64.ActiveCfg = Release|x64
+		{46929246-A5BF-4B97-884D-D121FD4688DC}.Release|x64.Build.0 = Release|x64
+		{46929246-A5BF-4B97-884D-D121FD4688DC}.Release|x86.ActiveCfg = Release|Win32
+		{46929246-A5BF-4B97-884D-D121FD4688DC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {652CFC45-BF03-4ACD-9CD3-6FB7CCB2713D}
+	EndGlobalSection
+EndGlobal
