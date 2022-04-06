@@ -24,7 +24,7 @@ void Dungeon::Battle(Player* player, Monster* monster, Inventory* material)
 	while (player->GetPlayerHP() > 0 && monster->GetMonsterHp() > 0)
 	{
 		cout << endl << endl;
-		cout << "			가위 바위 보 중 하나를 선택해 주세요." << endl;
+		cout << "			가위 바위 보 중 하나를 선택해 주세요. " << endl;
 		cout << "			1. 가위		2.바위		3.보" << endl<<endl;
 		cout << "				입력 : ";
 		int playerRSP;
